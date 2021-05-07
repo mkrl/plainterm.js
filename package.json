@@ -4,7 +4,7 @@
   "description": "A dead simple lightweight pure Javascript terminal \"emulator\" that mimics terminal behaviour in browser.",
   "main": "plainterm.js",
   "devDependencies": {
-    "grunt": "^1.0.3",
+    "grunt": "^1.3.0",
     "grunt-contrib-compress": "^1.4.3",
     "grunt-contrib-cssmin": "^3.0.0",
     "grunt-contrib-jshint": "^2.0.0",
